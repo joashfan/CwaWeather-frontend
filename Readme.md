@@ -14,6 +14,7 @@ NEURAL_WEATHER_LINK/
 │   └── icon-v2.png       # 系統圖示 (Favicon)
 ├── index.html            # 🧬 核心啟動檔案 (HTML/CSS/JS)
 └── .gitignore            # 版本控制遮罩
+
 ✨ 特色功能
 沉浸式未來介面：
 
@@ -45,8 +46,6 @@ bg1.jpg (核心背景)
 bg2.jpg (雨天變體)
 
 bg3.jpg (晴天變體)
-
-icon-v2.png
 
 直接使用瀏覽器 (Chrome, Edge 等 Cyberdeck 終端) 開啟 index.html 即可建立連線。
 
